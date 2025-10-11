@@ -1,104 +1,104 @@
-imagedelete @s 50
-imagedelete @s 51
-imagedelete @s 52
-imagedelete @s 53
-imagedelete @s 54
-imagedelete @s 55
-imagedelete @s 56
-imagedelete @s 57
-imagedelete @s 58
-imagedelete @s 59
-imagedelete @s 60
-imagedelete @s 61
-imagedelete @s 62
-imagedelete @s 63
-imagedelete @s 64
-imagedelete @s 65
-imagedelete @s 66
-imagedelete @s 67
-imagedelete @s 68
-imagedelete @s 69
-imagedelete @s 70
-imagedelete @s 71
-imagedelete @s 72
-imagedelete @s 73
-imagedelete @s 74
-imagedelete @s 75
-imagedelete @s 76
-imagedelete @s 77
-imagedelete @s 78
-imagedelete @s 79
-imagedelete @s 80
-imagedelete @s 81
-imagedelete @s 82
-imagedelete @s 83
-imagedelete @s 84
-imagedelete @s 85
-imagedelete @s 86
-imagedelete @s 87
-imagedelete @s 88
-imagedelete @s 89
-imagedelete @s 90
-imagedelete @s 91
-imagedelete @s 92
-imagedelete @s 93
-imagedelete @s 94
-imagedelete @s 95
-imagedelete @s 96
-imagedelete @s 97
-imagedelete @s 98
-imagedelete @s 99
-imagedelete @s 100
-imagedelete @s 101
-imagedelete @s 102
-imagedelete @s 103
-imagedelete @s 104
-imagedelete @s 105
-imagedelete @s 106
-imagedelete @s 107
-imagedelete @s 108
-imagedelete @s 109
-imagedelete @s 110
-imagedelete @s 111
-imagedelete @s 112
-imagedelete @s 113
-imagedelete @s 114
-imagedelete @s 115
-imagedelete @s 116
-imagedelete @s 117
-imagedelete @s 118
-imagedelete @s 119
-imagedelete @s 120
-imagedelete @s 121
-imagedelete @s 122
-imagedelete @s 123
-imagedelete @s 124
-imagedelete @s 125
-imagedelete @s 126
-imagedelete @s 127
-imagedelete @s 128
-imagedelete @s 129
-imagedelete @s 130
-imagedelete @s 131
-imagedelete @s 132
-imagedelete @s 133
-imagedelete @s 134
-imagedelete @s 135
-imagedelete @s 136
-imagedelete @s 137
-imagedelete @s 138
-imagedelete @s 139
-imagedelete @s 140
-imagedelete @s 141
-imagedelete @s 142
-imagedelete @s 143
-imagedelete @s 144
-imagedelete @s 145
-imagedelete @s 146
-imagedelete @s 147
-imagedelete @s 148
-imagedelete @s 149
-imagedelete @s 150
+imagedelete @s 50 .5 0 .5
+imagedelete @s 51 .5 0 .5
+imagedelete @s 52 .5 0 .5
+imagedelete @s 53 .5 0 .5
+imagedelete @s 54 .5 0 .5
+imagedelete @s 55 .5 0 .5
+imagedelete @s 56 .5 0 .5
+imagedelete @s 57 .5 0 .5
+imagedelete @s 58 .5 0 .5
+imagedelete @s 59 .5 0 .5
+imagedelete @s 60 .5 0 .5
+imagedelete @s 61 .5 0 .5
+imagedelete @s 62 .5 0 .5
+imagedelete @s 63 .5 0 .5
+imagedelete @s 64 .5 0 .5
+imagedelete @s 65 .5 0 .5
+imagedelete @s 66 .5 0 .5
+imagedelete @s 67 .5 0 .5
+imagedelete @s 68 .5 0 .5
+imagedelete @s 69 .5 0 .5
+imagedelete @s 70 .5 0 .5
+imagedelete @s 71 .5 0 .5
+imagedelete @s 72 .5 0 .5
+imagedelete @s 73 .5 0 .5
+imagedelete @s 74 .5 0 .5
+imagedelete @s 75 .5 0 .5
+imagedelete @s 76 .5 0 .5
+imagedelete @s 77 .5 0 .5
+imagedelete @s 78 .5 0 .5
+imagedelete @s 79 .5 0 .5
+imagedelete @s 80 .5 0 .5
+imagedelete @s 81 .5 0 .5
+imagedelete @s 82 .5 0 .5
+imagedelete @s 83 .5 0 .5
+imagedelete @s 84 .5 0 .5
+imagedelete @s 85 .5 0 .5
+imagedelete @s 86 .5 0 .5
+imagedelete @s 87 .5 0 .5
+imagedelete @s 88 .5 0 .5
+imagedelete @s 89 .5 0 .5
+imagedelete @s 90 .5 0 .5
+imagedelete @s 91 .5 0 .5
+imagedelete @s 92 .5 0 .5
+imagedelete @s 93 .5 0 .5
+imagedelete @s 94 .5 0 .5
+imagedelete @s 95 .5 0 .5
+imagedelete @s 96 .5 0 .5
+imagedelete @s 97 .5 0 .5
+imagedelete @s 98 .5 0 .5
+imagedelete @s 99 .5 0 .5
+imagedelete @s 100 .5 0 .5
+imagedelete @s 101 .5 0 .5
+imagedelete @s 102 .5 0 .5
+imagedelete @s 103 .5 0 .5
+imagedelete @s 104 .5 0 .5
+imagedelete @s 105 .5 0 .5
+imagedelete @s 106 .5 0 .5
+imagedelete @s 107 .5 0 .5
+imagedelete @s 108 .5 0 .5
+imagedelete @s 109 .5 0 .5
+imagedelete @s 110 .5 0 .5
+imagedelete @s 111 .5 0 .5
+imagedelete @s 112 .5 0 .5
+imagedelete @s 113 .5 0 .5
+imagedelete @s 114 .5 0 .5
+imagedelete @s 115 .5 0 .5
+imagedelete @s 116 .5 0 .5
+imagedelete @s 117 .5 0 .5
+imagedelete @s 118 .5 0 .5
+imagedelete @s 119 .5 0 .5
+imagedelete @s 120 .5 0 .5
+imagedelete @s 121 .5 0 .5
+imagedelete @s 122 .5 0 .5
+imagedelete @s 123 .5 0 .5
+imagedelete @s 124 .5 0 .5
+imagedelete @s 125 .5 0 .5
+imagedelete @s 126 .5 0 .5
+imagedelete @s 127 .5 0 .5
+imagedelete @s 128 .5 0 .5
+imagedelete @s 129 .5 0 .5
+imagedelete @s 130 .5 0 .5
+imagedelete @s 131 .5 0 .5
+imagedelete @s 132 .5 0 .5
+imagedelete @s 133 .5 0 .5
+imagedelete @s 134 .5 0 .5
+imagedelete @s 135 .5 0 .5
+imagedelete @s 136 .5 0 .5
+imagedelete @s 137 .5 0 .5
+imagedelete @s 138 .5 0 .5
+imagedelete @s 139 .5 0 .5
+imagedelete @s 140 .5 0 .5
+imagedelete @s 141 .5 0 .5
+imagedelete @s 142 .5 0 .5
+imagedelete @s 143 .5 0 .5
+imagedelete @s 144 .5 0 .5
+imagedelete @s 145 .5 0 .5
+imagedelete @s 146 .5 0 .5
+imagedelete @s 147 .5 0 .5
+imagedelete @s 148 .5 0 .5
+imagedelete @s 149 .5 0 .5
+imagedelete @s 150 .5 0 .5
 textdel @s 50
 textdel @s 51
 textdel @s 52

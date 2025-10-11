@@ -1,1 +1,0 @@
-execute at @s[nbt={SelectedItem:{id:"minecraft:netherite_hoe"}}] run say "Вы кликнули мотыгой ПКМ"
