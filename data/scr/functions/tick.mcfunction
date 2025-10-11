@@ -4,6 +4,14 @@ execute as @a[nbt={SelectedItem:{id:"minecraft:brown_dye"}}] at @s run scale set
 execute as @a[nbt=!{SelectedItem:{id:"minecraft:brown_dye"}}] at @s run tag @s remove jump_mushroom
 execute as @a[nbt=!{SelectedItem:{id:"minecraft:brown_dye"}}] at @s run scale set pehkui:falling 1 @s
 
+#КИРКИ:
+#Большая крика
+execute as @a[nbt={SelectedItem:{id:"minecraft:diamond_pickaxe",tag:{CustomModelData:1}}}] at @s run tag @s add big_pickaxe
+execute as @a[nbt=!{SelectedItem:{id:"minecraft:diamond_pickaxe",tag:{CustomModelData:1}}}] at @s run tag @s remove big_pickaxe
+
+#Супер крика
+execute as @a[nbt={SelectedItem:{id:"minecraft:diamond_pickaxe",tag:{CustomModelData:2}}}] at @s run tag @s add super_pickaxe
+execute as @a[nbt=!{SelectedItem:{id:"minecraft:diamond_pickaxe",tag:{CustomModelData:2}}}] at @s run tag @s remove super_pickaxe
 
 execute as @e[scores={shift=1..}] at @s run scoreboard players set @s shift 0
 execute as @a[scores={click=1..}] at @s run scoreboard players set @s click 0
