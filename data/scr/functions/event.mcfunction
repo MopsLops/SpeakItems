@@ -1,0 +1,1 @@
+execute at @s[tag=jump_mushroom,tag=!cooldown] run function scr:items/jump_mushroom
