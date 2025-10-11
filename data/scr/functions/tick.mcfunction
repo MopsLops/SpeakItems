@@ -19,5 +19,9 @@ execute as @a[nbt=!{SelectedItem:{id:"minecraft:diamond_pickaxe",tag:{CustomMode
 execute as @a[nbt={SelectedItem:{id:"minecraft:diamond_hoe",tag:{CustomModelData:1}}}] at @s run tag @s add random_hoe
 execute as @a[nbt=!{SelectedItem:{id:"minecraft:diamond_hoe",tag:{CustomModelData:1}}}] at @s run tag @s remove random_hoe
 
+#Часы тайм-стоп
+execute as @a[nbt={SelectedItem:{id:"minecraft:yellow_dye"}}] at @s run tag @s add clocks_time_stop
+execute as @a[nbt=!{SelectedItem:{id:"minecraft:yellow_dye"}}] at @s run tag @s remove clocks_time_stop
+
 execute as @e[scores={shift=1..}] at @s run scoreboard players set @s shift 0
 execute as @a[scores={click=1..}] at @s run scoreboard players set @s click 0
