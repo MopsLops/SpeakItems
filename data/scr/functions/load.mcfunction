@@ -44,3 +44,5 @@ scoreboard objectives add workbench_dialog dummy
 scoreboard objectives add oak_sapling_dialog dummy
 
 scoreboard objectives add bone_dialog dummy
+
+scoreboard objectives add kills.skeleton minecraft.killed:minecraft.skeleton

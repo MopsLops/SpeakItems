@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {"item": "minecraft:diamond_pickaxe", "data":{"CustomModelData": 1}},
+        {"item": "minecraft:diamond_sword"}
+],
+    "result": {
+      "item": "minecraft:diamond_pickaxe",
+      "count": 1,
+      "data": {
+        "CustomModelData": 2,
+        "display": {
+          "Name": "[{\"text\":\"Супер кирка\",\"color\":\"aqua\",\"bold\":true,\"italic\":false}]",
+          "Lore": [
+            "[{\"text\":\"Удар по пропивнику наносит 10 урона\",\"color\":\"gray\",\"italic\":false}]",
+            "[{\"text\":\"Бурит туннель 3х3 на 10 блоков вперед\",\"color\":\"gray\",\"italic\":false}]"
+          ]
+        }
+      }
+    }
+  }

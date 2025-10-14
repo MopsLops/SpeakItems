@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {"item": "minecraft:diamond_pickaxe"},
+        {"item": "minecraft:diamond_pickaxe"},
+        {"item": "minecraft:diamond_pickaxe"}
+],
+    "result": {
+      "item": "minecraft:diamond_pickaxe",
+      "count": 1,
+      "data": {
+        "CustomModelData": 1,
+        "display": {
+          "Name": "[{\"text\":\"Большая кирка\",\"color\":\"aqua\",\"bold\":true,\"italic\":false}]",
+          "Lore": [
+            "[{\"text\":\"Бурит туннель 3х3 на 10 блоков вперед\",\"color\":\"gray\",\"italic\":false}]"
+          ]
+        }
+      }
+    }
+  }

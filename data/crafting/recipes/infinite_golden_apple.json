@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {"item": "minecraft:enchanted_golden_apple"},
+      {"item": "minecraft:netherite_ingot"}
+],
+  "result": {
+    "item": "minecraft:golden_apple",
+    "count": 1,
+    "data": {
+      "CustomModelData": 1,
+      "display": {
+        "Name": "[{\"text\":\"Бесконечное супер яблоко\",\"color\":\"aqua\",\"bold\":true,\"italic\":false}]",
+        "Lore": [
+          "[{\"text\":\"С его помощью ты становишься почти не уязвим\",\"color\":\"gray\",\"italic\":false}]"
+        ]
+      }
+    }
+  }
+}

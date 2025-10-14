@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      { "item": "minecraft:stick" },
+      { "item": "minecraft:blaze_rod" }
+    ],
+    "result": {
+      "item": "minecraft:pink_dye",
+      "count": 1,
+      "data": {
+        "display": {
+          "Name": "[{\"text\":\"Огненная палка ниндзя\",\"color\":\"dark_purple\",\"bold\":true,\"italic\":false}]",
+          "Lore": [
+            "[{\"text\":\"ЛКМ -> Наносит 100 урона\",\"color\":\"gray\",\"italic\":false}]",
+            "[{\"text\":\"ПКМ -> Поджигает врагов\",\"color\":\"gray\",\"italic\":false}]"
+          ]
+        }
+      }
+    }
+  }
+  

@@ -23,8 +23,8 @@ execute at @s[scores={random=15..}] run summon wolf ~-1 ~ ~-2 {Tags:["wolf"],Tea
 execute at @s run execute as @e[tag=wolf] at @s run tamed Mops_Lops @s
 execute as @e[tag=wolf] at @s run particle poof ~ ~1 ~ .5 .5 .5 .1 100
 
-timedt 200 'execute as @e[tag=wolf] at @s run particle poof ~ ~1 ~ .5 .5 .5 .1 100'
-timedt 200 'execute as @e[tag=wolf] at @s run tp @s ~ ~-120 ~'
-timedt 201 'execute as @e[tag=wolf] at @s run kill @s'
+timedt 1200 'execute as @e[tag=wolf] at @s run particle poof ~ ~1 ~ .5 .5 .5 .1 100'
+timedt 1200 'execute as @e[tag=wolf] at @s run tp @s ~ ~-120 ~'
+timedt 1201 'execute as @e[tag=wolf] at @s run kill @s'
 
-cooldown @s 201
+cooldown @s 1201

@@ -12,7 +12,7 @@ execute if score .distance dist matches ..200 positioned ^ ^ ^0.05 rotated ~ ~ i
 particle minecraft:flame ~ ~-.25 ~ .5 .5 .5 .1 1
 
 #если попал в любой блок
-# execute if score .distance dist matches ..200 positioned ^ ^ ^0.05 rotated ~ ~ run function scr:raycast/collide_block
+execute if score .distance dist matches ..200 positioned ^ ^ ^0.05 rotated ~ ~ run function scr:items/ninja_stick/right_button/collide_block
 
 
 #если попал в какой-то блок определенный

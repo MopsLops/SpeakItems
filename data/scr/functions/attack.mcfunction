@@ -15,6 +15,6 @@ execute at @s[tag=oak_amulet] run function scr:items/oak_amulet/left_button/rayc
 execute at @s[tag=bone_summon] run function scr:items/bone_summon/left_button/raycast_start
 
 #Кирка - кнопка v не используется только лкм
-execute as @a[nbt={Inventory:[{id:"minecraft:diamond_pickaxe"}]},tag=!compleate_pickaxe_dialog] run function scr:dialogues/pickaxe_dialog
+execute as @a[scores={pickaxe_dialog=..7},nbt={SelectedItem:{id:"minecraft:diamond_pickaxe"}},tag=!compleate_pickaxe_dialog] run function scr:dialogues/pickaxe_dialog
 
-execute as @a[nbt={SelectedItem:{id:"minecraft:diamond_pickaxe",tag:{CustomModelData:1}}},tag=!compleate_pickaxe_dialog] run function scr:dialogues/pickaxe_dialog2
+execute as @a[scores={pickaxe_dialog=8..},nbt={SelectedItem:{id:"minecraft:diamond_pickaxe",tag:{CustomModelData:1}}},tag=!compleate_pickaxe_dialog] run function scr:dialogues/pickaxe_dialog2
