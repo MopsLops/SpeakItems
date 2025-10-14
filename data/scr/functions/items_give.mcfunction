@@ -19,7 +19,7 @@ give @a minecraft:golden_apple{CustomModelData:1,display:{Name:'{"text":"Бес�
 #Палка ниндзя
 give @a pink_dye{display:{Name:'{"text":"Огненная палка ниндзя","color":"dark_purple","bold":true,"italic":false}',Lore:['{"text":"ЛКМ -> Наносит 100 урона","color":"gray","italic":false}','{"text":"ПКМ -> Поджигает врагов","color":"gray","italic":false}']}} 1
 #Артефакт древа
-give @a lime_dye{display:{Name:'{"text":"Древесный амулет","color":"dark_purple","bold":true,"italic":false}',Lore:['{"text":"ЛКМ -> Можно спавнить деревья","color":"gray","italic":false}','{"text":"ПКМ -> Бесконечный блок дерева","color":"gray","italic":false}']}} 1
+give @a lime_dye{display:{Name:'{"text":"Древесный амулет","color":"dark_purple","bold":true,"italic":false}',Lore:['{"text":"ЛКМ -> Бесконечный блок дерева","color":"gray","italic":false}','{"text":"ПКМ -> Можно спавнить деревья","color":"gray","italic":false}']}} 1
 #Кость призыва
 give @a white_dye{display:{Name:'{"text":"Кость призыва","color":"dark_purple","bold":true,"italic":false}',Lore:['{"text":"Удар по скелету убивает его моментально","color":"gray","italic":false}','{"text":"ПКМ -> Призывает армию волков (от 5 до 20 рандомно)","color":"gray","italic":false}']}} 1
 #Необычная гнилая плоть

@@ -1,0 +1,9 @@
+effect give @s resistance 300 4 true
+effect give @s absorption 300 5 true
+effect give @s regeneration 300 2 true
+effect give @s fire_resistance 300 0 true
+effect give @s health_boost 300 4 true
+effect give @s strength 300 3 true
+effect give @s speed 300 3 true
+effect give @s haste 300 2 true
+effect give @s jump_boost 300 2 true

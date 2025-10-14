@@ -11,3 +11,36 @@ gamerule keepInventory true
 gamerule doWeatherCycle false
 
 scoreboard objectives add heal trigger
+
+scoreboard objectives add used_water_bucket used:water_bucket
+
+scoreboard objectives add used_golden_apple used:golden_apple
+
+scoreboard objectives add timestop dummy
+
+scoreboard objectives add random dummy
+
+team add friend
+team modify friend friendlyFire false
+
+scoreboard objectives add mushroom_dialog dummy
+
+scoreboard objectives add clock_dialog dummy
+
+scoreboard objectives add water_bucket_dialog dummy
+
+scoreboard objectives add apple_dialog dummy
+
+scoreboard objectives add dialog_state dummy
+
+scoreboard objectives add stick_dialog dummy
+
+scoreboard objectives add pickaxe_dialog dummy
+
+scoreboard objectives add hoe_dialog dummy
+
+scoreboard objectives add workbench_dialog dummy
+
+scoreboard objectives add oak_sapling_dialog dummy
+
+scoreboard objectives add bone_dialog dummy

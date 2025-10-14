@@ -4,9 +4,9 @@ tag @s add raycasting
 
 
 #запуск рейкаста от лица игрока
-execute anchored eyes positioned ^ ^ ^ run function scr:items/pickaxe/super_pickaxe/raycast
+execute anchored eyes positioned ^ ^ ^ run function scr:dialogues/workbench_dialog/raycast/raycast
 
-particle minecraft:sweep_attack ~ ~1 ~ 0.5 0.2 0.5 0 10 force @a
+
 
 tag @s remove raycasting
 

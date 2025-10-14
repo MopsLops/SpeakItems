@@ -187,11 +187,22 @@ ________________________________________
 Палка: Теперь объедини нас вместе и мы сделаем тебя очень сильным!
 *ты крафтишь из них одну длинную палку и получаешь Огненную палку ниндзя, на пкм поджигает врагов, на лкм наносит 100 урона*
 
+====================================================
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Мой брат…","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"За что с тобой так…","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Кто ты, путник?","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Мой брат.. Его унесли в тот портал..","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Помоги его достать, ты сможешь нас объединить и…","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"и получишь самое сильное оружие в мире!","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Он такой желтенький.. Найди его!","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Спасибо тебе путник! Удачи!","color":"white"}]}
 
+title @a actionbar {"text":"Палка из ада: ","color":"dark_red","extra":[{"text":"Спасибо что спас меня путник, но я уже никогда не буду как прежде!","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Ура! Ура! Братик!","color":"white"}]}
+title @a actionbar {"text":"Палка из ада: ","color":"dark_red","extra":[{"text":"Привет брат!","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Теперь объедини нас вместе и мы сделаем тебя очень сильным!","color":"white"}]}
 
-
-
-
+==============================================
 
 
 
@@ -236,4 +247,47 @@ ________________________________________
 Кость: Кость призыва
 (При нажатии пкм призывает армию волков (от 5 до 20 рандомно) которые будут с тобой около 1-3 минут и после разбегутся При нажатии лкм она убивает скелетов 1 ударом.)
 
+====================================================
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Мой брат…","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"За что с тобой так…","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Кто ты, путник?","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Мой брат.. Его унесли в тот портал..","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Помоги его достать, ты сможешь нас объединить и…","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"и получишь самое сильное оружие в мире!","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Он такой желтенький.. Найди его!","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Спасибо тебе путник! Удачи!","color":"white"}]}
 
+title @a actionbar {"text":"Палка из ада: ","color":"dark_red","extra":[{"text":"Спасибо что спас меня путник, но я уже никогда не буду как прежде!","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Ура! Ура! Братик!","color":"white"}]}
+title @a actionbar {"text":"Палка из ада: ","color":"dark_red","extra":[{"text":"Привет брат!","color":"white"}]}
+title @a actionbar {"text":"Палка: ","color":"gold","extra":[{"text":"Теперь объедини нас вместе и мы сделаем тебя очень сильным!","color":"white"}]}
+
+
+
+
+
+==============================================
+
+
+
+
+
+==================================================
+
+
+
+
+
+===============================================
+
+
+
+
+
+
+
+===================================================
+
+
+
+==============================================
